@@ -18,3 +18,5 @@ Bastien : https://huggingface.co/spaces/BastienHot/SAE-GPT2-BASTIEN
 Pascal : https://huggingface.co/spaces/PascalZhan/SAE-GPT2-PASCAL
 
 Tamij : https://huggingface.co/spaces/Tamij/SAE-GPT2-TAMIJ
+
+Kevin : https://huggingface.co/spaces/Kemasu/SAE-GPT2-KEVIN
