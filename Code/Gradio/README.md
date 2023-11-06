@@ -15,9 +15,10 @@ pinned: false
 
 <br/>
 
-| Nom        | Lien                                               |
-|------------|----------------------------------------------------|
-| Production | https://huggingface.co/spaces/FFatih/SAE-GPT2-PROD |
+| Nom        | Lien                                                  |
+|------------|-------------------------------------------------------|
+| Production | https://huggingface.co/spaces/FFatih/SAE-GPT2-PROD    |
+| Recette    | https://huggingface.co/spaces/FFatih/SAE-GPT2-RECETTE |
 
 <hr/>
 
