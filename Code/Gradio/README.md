@@ -34,3 +34,4 @@ pinned: false
 | Tamij             | https://huggingface.co/spaces/Tamij/SAE-GPT2-TAMIJ         |
 | Kevin             | https://huggingface.co/spaces/Kemasu/SAE-GPT2-KEVIN        |
 | Lilian            | https://huggingface.co/spaces/Solialiranes/SAE-GPT2-LILIAN |
+| Evan              | https://huggingface.co/spaces/Evanparis240/SAE-GPT2-EVAN   |
