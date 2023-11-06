@@ -20,3 +20,5 @@ Pascal : https://huggingface.co/spaces/PascalZhan/SAE-GPT2-PASCAL
 Tamij : https://huggingface.co/spaces/Tamij/SAE-GPT2-TAMIJ
 
 Kevin : https://huggingface.co/spaces/Kemasu/SAE-GPT2-KEVIN
+
+Lilian : https://huggingface.co/spaces/Solialiranes/SAE-GPT2-LILIAN
